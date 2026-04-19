@@ -1,6 +1,6 @@
 <div align="center">
 
-# Qi Xun 👋  
+# Hello, I'm Qi Xun 👋  
 **Backend · Cloud · AI Systems**
 
 Building systems that actually run — not just pass assignments.
