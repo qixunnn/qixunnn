@@ -1,99 +1,92 @@
 <div align="center">
 
 # Hello, I'm Qi Xun 👋  
+🌐 **Website:** qixun.dev
 **Backend · Cloud · AI Systems**
 
-Building systems that actually run — not just pass assignments.
+I build systems that solve real problems — not just assignments that work once.
 
 </div>
 
 ---
 
-## ⚡ Who I Am
+## ⚡ About Me
 
-Computing Science student at **SIT × University of Glasgow**  
+I’m a Computing Science student at **SIT × University of Glasgow** with a strong interest in building systems where **backend, cloud, and AI** come together.
 
-I enjoy turning messy real-world problems into working systems — especially where **backend, cloud, and AI** intersect.
-
-Less about “training models”, more about:
-> *how the whole system fits together and survives in production*
+What interests me most is not just whether something works, but whether it can be deployed, scaled, and used meaningfully in the real world.
 
 ---
 
-## 🧠 What I Like Building
+## 🧠 What I Enjoy Building
 
-- Scalable backend systems (APIs, microservices, pipelines)
-- AI-powered workflows (not just models — full pipelines)
-- Cloud-native systems that are efficient, not overengineered
-- Anything where I can ask: *“does this actually make sense in real life?”*
+- Backend systems and APIs
+- AI-powered workflows and end-to-end pipelines
+- Cloud-native applications and microservices
+- Systems designed with practical constraints in mind
 
 ---
 
-## 🛠️ Stack (things I actually use)
+## 🛠️ Tech Stack
 
-** 💻 Languages**  
+**💻 Languages**  
 Python · Java · C/C++ · JavaScript · Kotlin · Rust  
 
-** ⚙️ Backend**  
-Flask · Node.js · REST · gRPC · MQTT  
+**⚙️ Backend**  
+Flask · Node.js · REST APIs · gRPC · MQTT  
 
-** ☁️ Cloud / DevOps**  
+**☁️ Cloud / DevOps**  
 AWS · Docker · Kubernetes  
 
-**🗄️Database**  
+**🗄️ Databases**  
 PostgreSQL · MongoDB · Redis  
 
-** 🤖 AI/ML**  
-BERT · OCR · XGBoost
+**🤖 AI / ML**  
+BERT · OCR · XGBoost  
 
 ---
 
-## 🚀 Stuff I’ve Built
+## 🚀 Projects
 
-### 🏦 AI Underwriting System  
-Took raw insurance forms → turned them into actual decisions
+### 🏦 AI Underwriting System
+An AI-powered underwriting platform that transformed raw insurance forms into structured risk assessments and quotation support.
 
-- OCR → structured data → risk scoring pipeline  
-- Pulled in external data (location, weather, satellite imagery)  
-- Focus: outputs that are usable, not just “accurate”  
+- OCR pipeline for extracting and structuring proposal form data  
+- Integrated external signals such as location, weather, and satellite imagery  
+- Focused on producing outputs that were useful for real underwriting workflows  
 
----
+### 🚨 FraudBuster
+A microservice-based review moderation system for detecting fake and irrelevant reviews.
 
-### 🚨 FraudBuster  
-Detecting fake reviews with ML + microservices
+- BERT-based classification and relevance scoring  
+- Dockerized services deployed with Kubernetes  
+- Redis caching to reduce repeated inference overhead  
 
-- BERT-based classification + scoring  
-- Docker + Kubernetes deployment  
-- Redis caching to cut repeated inference  
+### 🌱 EcoPrompt
+A cloud-native middleware designed to reduce unnecessary LLM usage.
 
----
+- Prompt cleaning, compression, and caching pipeline  
+- Similarity-based reuse to avoid duplicate LLM calls  
+- Analytics for token, cost, and estimated energy savings  
 
-### 🌱 EcoPrompt  
-Reducing wasted LLM calls
+### 🏥 IoT Monitoring System
+A real-time monitoring system involving device communication and cloud-connected services.
 
-- Clean → compress → cache pipeline  
-- Avoids duplicate prompts using similarity matching  
-- Tracks token, cost, and energy savings  
-
----
-
-### 🏥 IoT Monitoring System  
-Real-time system with device + cloud integration
-
-- MQTT communication between devices  
-- Cloud messaging + backend services  
-- Explored secure access control concepts  
+- MQTT-based communication between IoT devices  
+- Backend services for messaging and coordination  
+- Explored secure access control for connected operations  
 
 ---
 
-## 🎯 What I’m Focused On Now
+## 🎯 Current Focus
 
-- Making systems scale properly (not just “works on my laptop”)  
-- Cleaner architecture (microservices, event-driven design)  
-- Practical AI systems that integrate into real workflows  
+- Designing systems that scale beyond local development
+- Building cleaner architectures with microservices and event-driven patterns
+- Applying AI in ways that integrate into real operational workflows
 
 ---
 
-## 📫 Reach Out
+## 📫 Connect
 
-If you're into backend, cloud, or building real systems — we’ll probably get along.
+If you're interested in backend, cloud, or building practical systems, let’s connect.
+
