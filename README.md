@@ -1,10 +1,10 @@
 <div align="center">
 
 # Hello, I'm Qi Xun 👋  
-🌐 **Website:** qixun.dev
-**Backend · Cloud · AI Systems**
 
-I build systems that solve real problems — not just assignments that work once.
+**Backend · Cloud · AI Systems**  
+
+🌐 **Website:** [qixun.dev](https://qixun.dev)
 
 </div>
 
