@@ -31,20 +31,20 @@ Less about “training models”, more about:
 
 ## 🛠️ Stack (things I actually use)
 
-**Languages**  
+** 💻 Languages**  
 Python · Java · C/C++ · JavaScript · Kotlin · Rust  
 
-**Backend**  
+** ⚙️ Backend**  
 Flask · Node.js · REST · gRPC · MQTT  
 
-**Cloud / DevOps**  
+** ☁️ Cloud / DevOps**  
 AWS · Docker · Kubernetes  
 
-**Data**  
+**🗄️Database**  
 PostgreSQL · MongoDB · Redis  
 
-**AI**  
-BERT · OCR · XGBoost · Vision APIs  
+** 🤖 AI/ML**  
+BERT · OCR · XGBoost
 
 ---
 
