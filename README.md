@@ -97,5 +97,3 @@ Real-time system with device + cloud integration
 ## 📫 Reach Out
 
 If you're into backend, cloud, or building real systems — we’ll probably get along.
-
-Portfolio · LinkedIn · Email
