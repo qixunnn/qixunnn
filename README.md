@@ -2,7 +2,7 @@
 
 # Hello, I'm Qi Xun 👋  
 
-**Backend · Cloud · AI Systems**  
+**Full-Stack · Cloud · AI Systems**  
 
 🌐 **Website:** [qixun.dev](https://qixun.dev)
 
@@ -20,7 +20,7 @@ What interests me most is not just whether something works, but whether it can b
 
 ## 🧠 What I Enjoy Building
 
-- Backend systems and APIs
+- Full-stack software systems and APIs
 - AI-powered workflows and end-to-end pipelines
 - Cloud-native applications and microservices
 - Systems designed with practical constraints in mind
@@ -30,7 +30,7 @@ What interests me most is not just whether something works, but whether it can b
 ## 🛠️ Tech Stack
 
 **💻 Languages**  
-Python · Java · C/C++ · JavaScript · Kotlin · Rust  
+Python · Java · C/C++ · JavaScript · Kotlin · Rust · React.js  
 
 **⚙️ Backend**  
 Flask · Node.js · REST APIs · gRPC · MQTT  
